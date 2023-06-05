@@ -12,4 +12,4 @@ User Guide:
 - r_scripts contain calculations
 - r_source_files contain helper functions
 
-Warning: this is my first major application of R analyses. So scripts are in need of edits. Scripts are highly specific for the data provided. The formal results and additional details can be found in the published manuscript at PeerJ (https://peerj.com/articles/12137/).
+Author Note: This is my first major application of R analyses. So scripts are roughly coded and highly specific to the data provided. The formal results and additional details can be found in the published manuscript at PeerJ (https://peerj.com/articles/12137/).
